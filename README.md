@@ -249,9 +249,9 @@ MIT License - see LICENSE file for details.
 ## HOME PAGE
 ![My Photo](./home.png)
 ## STUDENT DASHBOARD
-![My Photo](./student dashboard.png)
+![My Photo](./student-dashboard.png)
 ## FACULTY DASHBOARD 
-  ![My Photo](./faculty dashboard.png)
-  ## 404 PAGE
-   ![My Photo](./404.png)
+![My Photo](./faculty-dashboard.png)
+ ## 404 PAGE
+![My Photo](./404.png)
 
