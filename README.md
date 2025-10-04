@@ -246,3 +246,7 @@ Check console output for detailed error messages and debugging information.
 ## License
 
 MIT License - see LICENSE file for details.
+## HOME PAGE
+![My Photo](./home.png)
+
+
