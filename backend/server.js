@@ -52,6 +52,7 @@ const PORT = process.env.PORT || 5000;
 app.use(helmet());
 app.use(cors({
   origin: [
+   ' https://campus-complaint.netlify.app/',
     'http://localhost:3000',
     'http://localhost:3001', 
     'http://localhost:3002', 
